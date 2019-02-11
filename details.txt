@@ -1,0 +1,7 @@
+9 Detectors
+18 Views
+sourcce to detector distance 15
+Object Dia 12
+Fan Angle 54'
+spread over 360
+
